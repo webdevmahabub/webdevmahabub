@@ -3,12 +3,11 @@
 My name is Md Mahabub and i'm a Fullstack  Developer 
 
 Here are some ideas to get you started:
--  🔭I’m Owner of  [webdevmahbub]
+-  🔭I’m Owner of [UniqueTopup](https://uniquetopup.com)
 - 🔭 I’m currently working on [Laravel](https://laravel.com)
 - 🌱 I’m currently learning [Laravel & React](https://laravel.com)
 - 👯 I’m looking to collaborate on [Laravel & React]
-- 😄 Pronouns:  He/His
-- ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
+- ⚡ Fun fact: I spend almost 7 hours to developing to 6 Days of Week.
 
 
 
@@ -49,14 +48,7 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/greenviewsoft/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-     
-<a href="https://www.linkedin.com/in/md-tipu-sultan-a19b5a158/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/tipusultandhaka/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  
+
      
   
 
